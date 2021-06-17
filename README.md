@@ -1,1 +1,2 @@
-# PRO-2021
+# School project
+Simple mobile application for Bluetooth signal measurement.  

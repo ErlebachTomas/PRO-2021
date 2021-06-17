@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Projekt</string>
+    <string name="buttonStart">Start</string>
+    <string name="buttonStop">Stop!</string>
+    <string name="sharedPrefError">Neplatna konfigurace. Chybí MAC adresa druhého zařízení</string>
+    <string name="save">Uložit</string>
+    <string name="back">Zpět</string>
+    <string name="scan">Skenovat...</string>
+    <string name="NaN">NaN</string>
+    <string name="calibration">Kalibrace zařízení</string>
+    <string-array name="Profiles">
+        <item>DEMO 6</item>
+        <item>10 Km</item>
+        <item>15 Km</item>
+        <item>20 Km</item>
+        <item>25 Km</item>
+        <item>Profile Test</item>
+        <item>Joker</item>
+        <item>0</item>
+        <item>30</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>150</item>
+        <item>180</item>
+        <item>210</item>
+        <item>240</item>
+        <item>270</item>
+        <item>300</item>
+        <item>330</item>
+        <item>360</item>
+    </string-array>
+</resources>
